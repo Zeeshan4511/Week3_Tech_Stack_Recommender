@@ -24,14 +24,6 @@ An intelligent recommendation system that analyzes a user's technical skills and
 
 ---
 
-## 📸 Application Preview
-
-> Add your Streamlit screenshot here
-
-```md
-![Application Screenshot](assets/screenshot.png)
-```
-
 ---
 
 ## ✨ Key Features
